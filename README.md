@@ -1,6 +1,6 @@
-# zahrat_elwadi
+# Home Screen with Details page
 
-A new Flutter project.
+This project is about how you can connect your home page with another page and send details to the second page (details page).
 
 ## Getting Started
 
